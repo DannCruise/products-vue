@@ -10,7 +10,7 @@ Se consume la api creada en Laravel 9 (https://gitlab.com/DanCruise/laraproducts
 
 Instalación:
 
-1) Descarga e instala la [API de laravel](https://gitlab.com/DanCruise/laraproducts), las instrucciones están dentro del archivo READEME.md del repositorio.
+1) Descarga e instala la [API de laravel](https://gitlab.com/DanCruise/laraproducts), las instrucciones están dentro del archivo README.md del repositorio.
 
 2) Clonar o descargar este proyecto
 
